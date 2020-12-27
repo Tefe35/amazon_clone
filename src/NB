@@ -1,0 +1,41 @@
+amazon clone 🖖
+************
+1. create demo(npx create-react-app)
+2.clean up unesessary documents
+3.install react dom( npm install react-router-dom)
+4.create components
+5.go to material Ui on google and coppy and install(npm install @material-ui/core) 
+6.from material Ui, search icon from search bar.and install (npm install @material-ui/icons)
+7. header component (navbar)
+8. banner(home).
+9.product
+10.subtotal(npm install react-currency-format --save)
+11.stateprovider(use context api) to bring products from home page to checkout page
+12.in login component go to firebase and gatestarted,name of project, setting and GO to config and coppy config file and give the name firebase.js on src. and back to firebase home and click authentication and gate started. and click singin method and click email & password and enable it. finaly back terminal and (npm install firebase) and go to firebase.js and import
+13.install axios (npm install axios)
+
+14 install strip library for card functionality(npm i @stripe/stripe-js)and (npm i @stripe/react-stripe-js)
+15.sign up stripe.com  coppy api key.and go to app.js and write "const promise=loadstripe("your api key here")"
+(pk_test_51I0aNcF1k6RhrQs6sDX9zGfRDKG12EiCPd7AHYpuyDNZGEr4tJoRmeVZBPxS7MANtfCOP2a4jEBhHrwmGZt8k7xP00pSUWxWed)
+.16 axios is used to fetch api
+
+
+
+for backend
+************
+
+
+
+**what is context api ?**
+
+resume..........................
+/https://www.canva.com/tools/resume-maker-v1/?utm_source=google_sem&utm_medium=cpc&utm_campaign=REV_US_EN_CanvaPro_Branded_Tier2_EM&utm_term=REV_US_EN_CanvaPro_Branded_Tier2_Resume_Builder_EM&gclsrc=aw.ds&&gclid=CjwKCAiAlNf-BRB_EiwA2osbxexee6v5WD0N0fYZ57IcENxIYPzYpt3sYEtysvXXiGk7XqGCY_QBbxoCvYsQAvD_BwE&gclsrc=aw.ds/
+
+
+
+
+
+hosting URL: https://clone-73e04.web.app
+
+
+hosting & backend URL: https://clone-73e04.web.app
